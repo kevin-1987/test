@@ -12,14 +12,3 @@
 
 7.public action <string,string> NomDeMaVariable;
 
-8.
-private coroutine StopMaCoroutine;
-ienumeretor MaCoroutine(){yield return new WaitForSeconds(1)};
-StopMaCoroutine = start coroutine(MaCouroutine);
-StopCoroutine(StopMaCoroutine);
-
-9.+= pour plusieur methode ajouter et = pour une methode ajouter 
-
-10.elle fonctionne en parrallele avec l'update c'est comme si il y aurait plusieur update
-
-asffffffff
