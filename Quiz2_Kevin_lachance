@@ -1,0 +1,25 @@
+1.Animator,animation,scriptesafffffffffffffffffffffffffffffffffffffffff
+
+2.Meilleur controle sur les animation
+
+3.Image par image et image par deplacement
+
+4.Flash animation tool set et spine
+
+5.Faux il ne peux pas le faire 
+
+6.faux
+
+7.public action <string,string> NomDeMaVariable;
+
+8.
+private coroutine StopMaCoroutine;
+ienumeretor MaCoroutine(){yield return new WaitForSeconds(1)};
+StopMaCoroutine = start coroutine(MaCouroutine);
+StopCoroutine(StopMaCoroutine);
+
+9.+= pour plusieur methode ajouter et = pour une methode ajouter 
+
+10.elle fonctionne en parrallele avec l'update c'est comme si il y aurait plusieur update
+
+asffffffff
