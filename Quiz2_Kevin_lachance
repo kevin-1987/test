@@ -12,9 +12,9 @@ Test 2
 6.faux
 
 7.public action <string,string> NomDeMaVariable;
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Test avec beau commentaire
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <<<<<<< HEAD
 =======
 C'est une branche
